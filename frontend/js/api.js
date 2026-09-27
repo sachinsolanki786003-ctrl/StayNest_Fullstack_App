@@ -1,7 +1,7 @@
 // StayNest Full-Stack API Client Layer
 // Connects Vanilla JS Frontend to Django REST Framework Backend (http://localhost:8000/api/)
 
-const API_BASE_URL = 'http://127.0.0.1:8000/api';
+const API_BASE_URL = 'https://stay-nest-fullstack-app-vqym.vercel.app/';
 
 class StayNestAPI {
   constructor() {
